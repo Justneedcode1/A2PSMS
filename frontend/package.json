@@ -1,5 +1,6 @@
 {
   "name": "sms-saas-frontend",
   "version": "1.0.0",
-  "description": "SMS SaaS Frontend"
+  "description": "SMS SaaS Frontend",
+  "private": true
 }
